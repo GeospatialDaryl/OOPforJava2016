@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;private void lastCharIsVowel(char nextLastChar)&apos; from &apos;document.Document.countSyllables()&apos; to &apos;document.Document&apos;&#x0D;&#x0A;- Original project: &apos;MOOCTextEditor&apos;&#x0D;&#x0A;- Method name: &apos;lastCharIsVowel&apos;&#x0D;&#x0A;- Destination type: &apos;document.Document&apos;&#x0D;&#x0A;- Declared visibility: &apos;private&apos;&#x0D;&#x0A;- Generate method comment" comments="true" description="Extract method &apos;lastCharIsVowel&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;document{Document.java" name="lastCharIsVowel" replace="false" selection="2383 183" stamp="1454532593292" version="1.0" visibility="2"/>
+</session>
